@@ -1,0 +1,4 @@
+name = "TrendRadar"
+build.command = "npm run build" # 构建命令
+build.upload.directory = "./dist" # 构建后的输出目录
+compatibility_date = "2026-02-04"
